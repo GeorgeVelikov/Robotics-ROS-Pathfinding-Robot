@@ -1,4 +1,4 @@
-Part of the assignment for CS3027 robotics
+Part of the assignment for CS3027/CS4048 robotics.
 
 - Driving from A to B reliably
 - Pathplanning using a static map with A*
